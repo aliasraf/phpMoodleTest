@@ -1,5 +1,5 @@
 Database Host : localhost
-Database Name : bs_exam
+Database Name : ecommerce
 
 Database User : root
 
